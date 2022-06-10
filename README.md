@@ -3,6 +3,8 @@
 - I like anything related to computers, Mainly software development, Ethical hacking.
 
 - My favourite subjects (In order) are: Physics, Algebra, Calclus, Chemistry
+
+- You can always reach me through my discord account, WindowsPSX#6210
   
 - I’m currently learning Python, and I am willing to be a full stack develope and an ethical hacker one day...
 - *cough cough, I don't know how am I supposed to be able to do both* 😅
