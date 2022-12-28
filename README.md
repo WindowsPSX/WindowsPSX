@@ -6,8 +6,14 @@
 
 - You can always reach me through my discord account, WindowsPSX#6210
   
-- I’m currently learning Python, and I am willing to be a full stack develope and an ethical hacker one day...
-- *cough cough, I don't know how am I supposed to be able to do both* 😅
+- I’m currently learning C, C++, Python
+
+- I'm willing to learn Javascript, Java, Kotlin, after Mastering the languages I am currently learning.
+
+- I like programming microcontrollers so much.
+
+- I want to become an embedded software engineer or a data scientist.
+
 
 <!---
 WindowsPSX/WindowsPSX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
